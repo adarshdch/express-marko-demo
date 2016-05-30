@@ -1,0 +1,4 @@
+{
+  "@greeting-name": "string",
+  "@message-count": "number"
+}
