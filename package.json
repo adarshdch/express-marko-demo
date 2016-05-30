@@ -4,7 +4,8 @@
   "description": "Express Marko Template Demo Application",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "marko": "^3.4.2"
   },
   "devDependencies": {
     "nodemon": "^1.9.2"
